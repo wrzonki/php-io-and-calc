@@ -1,0 +1,3 @@
+Kina:Kultura,Femina,Kopernik,Kino Polska
+Teatey:Kwadrat,Ramoa,Teatr Wielki
+Stadiony:Legii,Narodowy
